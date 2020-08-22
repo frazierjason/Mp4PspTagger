@@ -8,7 +8,10 @@ This is a sample C# .NET application that can read and update the title, date an
 
 This sample and its source is freeware and anyone may use it in any way they wish.  It has been moderately tested with .MP4 files encoded by FFMPEG, 3GP Converter, Image Converter 2, Elecard, and Nero.  Please note though that there may be bugs in the implementation, and that this app is totally capable of trashing your .MP4 file if something goes awry.  I take no responsibility for any damage done to your files, software or hardware as a result of using this sample.
 
-At the time in 2005, I had not been writing code for very long, so the code quality may not be that great.  But it worked for me, and that's all I really wanted.  The MSVTagger library was also reused in PSPVideo9:
+At the time in 2005, I had not been writing code for very long, so the code quality may not be that great.  But it worked for me, and that's all I really wanted.
+
+The MSVTagger library was integrated into the PSPVideo9 converter app (I do not promote or endorse, just referencing where my library was used).  Private MSVTagger bug fixes were made for early PSP firmware revs; if the author provides these fixes in source code I am happy to consider a merge request (-: 
+
 http://www.pspvideo9.com/
 
 Thanks,
